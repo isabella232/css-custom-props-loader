@@ -1,12 +1,12 @@
 # CSS Custom Properties Loader for Webpack<br/>[![Sponsored by][sponsor-img]][sponsor] [![Version][npm-version-img]][npm] [![Downloads][npm-downloads-img]][npm] [![Dependencies][deps-img]][deps]
 
 [sponsor]: https://www.sebastian-software.de
-[deps]: https://david-dm.org/sebastian-software/css-custom-vars-loader
-[npm]: https://www.npmjs.com/package/css-custom-vars-loader
+[deps]: https://david-dm.org/sebastian-software/css-custom-props-loader
+[npm]: https://www.npmjs.com/package/css-custom-props-loader
 [sponsor-img]: https://badgen.net/badge/Sponsored%20by/Sebastian%20Software/692446
-[deps-img]: https://badgen.net/david/dep/sebastian-software/css-custom-vars-loader
-[npm-downloads-img]: https://badgen.net/npm/dm/css-custom-vars-loader
-[npm-version-img]: https://badgen.net/npm/v/css-custom-vars-loader
+[deps-img]: https://badgen.net/david/dep/sebastian-software/css-custom-props-loader
+[npm-downloads-img]: https://badgen.net/npm/dm/css-custom-props-loader
+[npm-version-img]: https://badgen.net/npm/v/css-custom-props-loader
 
 Loader to get CSS custom properties from CSS files.
 
