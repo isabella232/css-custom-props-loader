@@ -15,5 +15,9 @@
   "devDependencies": {
     "eslint": "^5.12.0",
     "eslint-config-readable": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastian-software/css-custom-props-loader.git"
   }
 }
