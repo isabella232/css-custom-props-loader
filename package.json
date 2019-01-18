@@ -1,0 +1,19 @@
+{
+  "name": "css-custom-props-loader",
+  "version": "1.0.0",
+  "description": "Load custom css properties in webpack",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Fastner <s.fastner@sebastian-software.de>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "css": "^2.2.4",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "eslint-config-readable": "^2.3.0"
+  }
+}
